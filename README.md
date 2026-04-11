@@ -16,6 +16,7 @@
 
 | 名称 | 日期 |
 |---|---|
+| [当AI学会"迎合" ：56万用户对话显露精神健康风险｜对齐研究新范式](talk-07-chat-with-alex-qiu.md) | 2026/4/2 |
 | [牛津学姐带你了解《国际AI安全报告》（上）：能力与风险](talk-06-international-ai-safety-report-part1.md) | 2026/3/12 | 
 | [前沿 AI 风险管理框架实证评估](talk-05-frontier-ai-risk-management-framework-in-practice.md) | 2026/2/26 |
 | [数字心智导论——探索人工智能的道德版图](talk-04-digital-minds-introduction.md) | 2026/1/1 |
