@@ -16,7 +16,7 @@
 
 | 名称 | 日期 |
 |---|---|
-| [OCASC 前沿 AI 安全课程](course-02-frontier-ai-safety.md) | 2026/6/2 |
+| [OCASC 前沿 AI 安全课程](course-02-frontier-ai-safety.md) | 2026/7/5 |
 | [AI有意识吗？——为什么这个问题已经变得现实和重要](talk-08-hangzhou-2050-ai-consciousness.md) | 2026/4/26 |
 | [当AI学会"迎合" ：56万用户对话显露精神健康风险｜对齐研究新范式](talk-07-chat-with-alex-qiu.md) | 2026/4/2 |
 | [牛津学姐带你了解《国际AI安全报告》（上）：能力与风险](talk-06-international-ai-safety-report-part1.md) | 2026/3/12 | 
