@@ -16,6 +16,7 @@
 
 | 名称 | 日期 |
 |---|---|
+| [龙潭 AI 十日谈 · AI 安全三部曲](talk-09-longtan-ai-safety-trilogy.md) | 2026/8/2 - 2026/8/11 |
 | [OCASC 前沿 AI 安全课程](course-02-frontier-ai-safety.md) | 2026/7/5 |
 | [AI有意识吗？——为什么这个问题已经变得现实和重要](talk-08-hangzhou-2050-ai-consciousness.md) | 2026/4/26 |
 | [当AI学会"迎合" ：56万用户对话显露精神健康风险｜对齐研究新范式](talk-07-chat-with-alex-qiu.md) | 2026/4/2 |
