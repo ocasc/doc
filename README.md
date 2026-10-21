@@ -12,6 +12,13 @@
 + [LinkedIn](https://www.linkedin.com/company/open-community-for-ai-safety-china/)
 + [官网](https://aisafetystudy.gixia.org/)
 
+## 即将开始
+
+| 名称 | English | 日期 |
+|---|---|---|
+| [AI 安全验证工作坊（深圳）](seminar-05-verification-field-building.md) | AI Safety Verification Workshop · Shenzhen | 2026/12/3 |
+| [AI 安全 VC 见面会](meetup-01-ai-safety-vc-meetup.md) | AI Safety VC Meetup | 2026/12/14 |
+
 ## 历史活动
 
 | 名称 | English | 日期 |
