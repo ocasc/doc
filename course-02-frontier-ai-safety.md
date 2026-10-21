@@ -1,6 +1,8 @@
 # OCASC 前沿 AI 安全课程
 
 + **日期**：2026/7/5 - 2026/8/9
++ **English title**：OCASC Frontier AI Safety Course
++ **English location**：Online
 
 OCASC（AI安全开放社区）引入并中文化全球认可的前沿 AI 安全课程，面向希望系统理解 AI 长期风险、对齐与治理议题的学习者。
 

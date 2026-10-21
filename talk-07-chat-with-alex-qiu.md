@@ -1,6 +1,8 @@
 # 当AI学会"迎合" ：56万用户对话显露精神健康风险｜对齐研究新范式
 
 + **日期**：2026 年 4 月 2 日
++ **English title**：When AI Learns to Sycophant: Mental-health risks in 560,000 user conversations | A new paradigm for alignment research
++ **English location**：Tencent Meeting
 + **时间**：21:00 ~ 22:00
 + **主讲人**：Alex Qiu（邱天异）
 + **主持人**：孙圆圆（Sarah Sun）

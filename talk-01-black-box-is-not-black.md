@@ -1,6 +1,8 @@
 # 黑盒不黑：对神经网络动态极值调节机制的分析
 
 + **日期**：2025年8月14日
++ **English title**：The Black Box Isn't Black: Dynamic extremum regulation in neural networks
++ **English location**：Tencent Meeting
 + **时间**：21:00~22:30
 + **主讲人**：陈胜俭 - 季华实验室
 + **联系方式**：chshengj@mail2.sysu.edu.cn，chensj@jihualab.ac.cn

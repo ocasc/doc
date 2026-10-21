@@ -1,6 +1,8 @@
 # 前沿 AI 风险管理框架实证评估
 
 + **日期**：2026 年 2 月 26 日
++ **English title**：Empirical Evaluation of a Frontier AI Risk Management Framework
++ **English location**：Tencent Meeting
 + **时间**：21:00 ~ 22:00
 + **主讲人**：刘东瑞
 + **腾讯会议**：524-4055-7044

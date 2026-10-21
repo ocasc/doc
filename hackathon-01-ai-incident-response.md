@@ -2,6 +2,8 @@
 
 + **日期**：2026/9/12 - 2026/9/14
 + **地点**：线上 · 上海 706 / 杭州和光 AI 空间
++ **English title**：OpenDev × OCASC AI Safety Hackathon
++ **English location**：Online · Shanghai 706 / Hangzhou Heguang AI Space
 + **形式**：48 小时黑客松，1–5 人组队
 + **联合主办**：OpenDev、AI安全开放社区（OCASC）
 

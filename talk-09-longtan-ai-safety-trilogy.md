@@ -3,6 +3,8 @@
 + **日期**：2026 年 8 月 2 日 – 8 月 11 日
 + **主讲人**：王金戈
 + **地点**：福建屏南 · 龙潭村
++ **English title**：Longtan Ten Days of AI · An AI Safety Trilogy
++ **English location**：Longtan Village, Pingnan, Fujian
 + **活动系列**：AI 十日谈 · 第二届屏南数字游民生活周
 
 ## 活动介绍

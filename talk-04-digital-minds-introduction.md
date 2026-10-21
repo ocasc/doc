@@ -4,6 +4,8 @@
 + **时间**：16:00~17:00
 + **主讲人**：王金戈
 + **地点**：DN武夷山数字游民公社
++ **English title**：Introduction to Digital Minds: Mapping the moral landscape of AI
++ **English location**：Tencent Meeting
 
 数字心智（Digital Minds）指那些值得道德考量的计算机程序。它不仅仅是一个科学问题，还是一个伦理问题，因此吸引了大量AI研究者和哲学家的目光。
 

@@ -4,6 +4,8 @@
 + **时间**：11:00 ~ 11:45
 + **主讲人**：余舒（复旦大学 & 上海 AI Lab 博士生）
 + **地点**：杭州 · 云栖小镇国际会展中心
++ **English title**：Is AI Conscious? Why the question has become real and urgent
++ **English location**：Hangzhou · Yunqi Town International Convention Center
 + **活动系列**：杭州 2050 大会 · 意识之桥蜂巢 · 从人类意识到 AI 意识
 
 ## 活动介绍

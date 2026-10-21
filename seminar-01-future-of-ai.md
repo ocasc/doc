@@ -1,5 +1,8 @@
 # AI塑造未来共学研讨会
 
++ **English title**：AI Shaping the Future: A Co-learning Seminar
++ **English location**：Tencent Meeting
+
 + **日期**：2025年5月9日
 + **时间**：20:00~21:00
 + **主持人**：王金戈

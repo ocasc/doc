@@ -5,6 +5,8 @@
 + **日期**：2025年12月11日
 + **时间**：21:00~23:00
 + **地点**：线上腾讯会议
++ **English title**：Where AI Meets Original Work: Copyright and authorship boundaries
++ **English location**：Tencent Meeting
 + **主持人**：曾小灯
 
 ### AI总结

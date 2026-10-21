@@ -1,6 +1,8 @@
 # 多模态大语言模型的核心知识缺陷
 
 + **日期**：2025年9月11日
++ **English title**：Core Knowledge Deficits in Multimodal Large Language Models
++ **English location**：Online
 + **时间**：20:30~21:30
 + **主讲人**：Dezhi Luo
 + **个人主页**：https://ihzedoul.com/

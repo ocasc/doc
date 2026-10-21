@@ -5,6 +5,8 @@
 + **日期**：2025年12月25日
 + **时间**：21:00~23:00
 + **地点**：线上腾讯会议
++ **English title**：Roundtable: Evaluating AI Consciousness
++ **English location**：Tencent Meeting
 + **主持人**：Carrot
 + **对谈嘉宾**：十三维，方亮，王伟冰
 + **合作伙伴**：GrowAI，最速曲线技术社区，伊甸园之河

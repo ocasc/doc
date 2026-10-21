@@ -1,6 +1,8 @@
 # 牛津学姐带你了解《国际AI安全报告》（上）：能力与风险
 
 + **日期**：2026 年 3 月 12 日
++ **English title**：Inside the International AI Safety Report (Part 1): Capabilities and Risks
++ **English location**：Tencent Meeting
 + **时间**：21:00 ~ 22:00
 + **主讲人**：孙圆圆（Sarah）
 + **腾讯会议**：524-4055-7044

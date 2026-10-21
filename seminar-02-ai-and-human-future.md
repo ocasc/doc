@@ -5,6 +5,8 @@
 + **日期**：2025年12月4日
 + **时间**：20:00~21:00
 + **地点**：黄山NCC·黑多岛人才社区
++ **English title**：AI and the Human Future: A Discussion
++ **English location**：NCC Huangshan · Heiduodao Talent Community
 + **主持人**：王金戈
 
 此次讨论会发生于主持人在黄山NCC数字游民社区停留期间。社区内聚集了来自全国各地各行各业的优秀青年，大家对AI话题很有兴趣，因此在周四活动日上组织了这次讨论会。

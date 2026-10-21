@@ -1,6 +1,8 @@
 # 谈谈AI的风险与应对措施
 
 + **日期**：2025年8月21日
++ **English title**：AI Risks and What We Can Do About Them
++ **English location**：Online
 + **时间**：21:00~21:30
 + **主讲人**：王金戈
 + **联系方式**：wjg172184@163.com

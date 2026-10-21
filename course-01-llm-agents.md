@@ -1,5 +1,8 @@
 # LLM Agents 共学计划
 
++ **English title**：LLM Agents Co-learning Program
++ **English location**：Online
+
 本课程召集学员共同学习 UC Berkeley 的 LLM Agents 课程。
 
 ## 课程介绍
